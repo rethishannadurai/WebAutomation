@@ -1,0 +1,1 @@
+Allure serve C:\Rethish\work\Python\WebAutomation\reports\Allurereport

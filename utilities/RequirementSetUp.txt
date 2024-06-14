@@ -1,0 +1,8 @@
+allure-pytest==2.13.2
+allure-python-commons==2.13.2
+parse==1.19.1
+parse-type==0.6.2
+pycparser==2.21
+PySocks==1.7.1
+pytest==7.4.3
+pytest-bdd==7.0.0

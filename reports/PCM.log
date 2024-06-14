@@ -1,0 +1,275 @@
+09/05/24 03:50:16 PM Thursday - BaseFn - INFO : Window maximized.
+09/05/24 03:50:23 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/header/div/div[3]/div[13]/div[2]/a
+09/05/24 03:50:24 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/header/div/div[3]/div[13]/div[2]/a
+09/05/24 03:50:24 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :ap_email
+09/05/24 03:50:24 PM Thursday - BaseFn - INFO : 7358696546Text has been successfully entered in the element with LocatorType: id and with the locatorvalue :ap_email
+09/05/24 03:50:28 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 03:50:28 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :ap_password
+09/05/24 03:50:28 PM Thursday - BaseFn - INFO : Developer@123Text has been successfully entered in the element with LocatorType: id and with the locatorvalue :ap_password
+09/05/24 03:50:30 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 03:51:10 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 03:51:10 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :twotabsearchtextbox
+09/05/24 03:51:10 PM Thursday - BaseFn - INFO : Cleared input field with LocatorType: id and LocatorValue: twotabsearchtextbox
+09/05/24 03:51:11 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :twotabsearchtextbox
+09/05/24 03:51:11 PM Thursday - BaseFn - INFO : Qifutan Car Phone Holder MountText has been successfully entered in the element with LocatorType: id and with the locatorvalue :twotabsearchtextbox
+09/05/24 03:51:12 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :nav-search-submit-button
+09/05/24 03:51:15 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: id and with the locatorvalue :nav-search-submit-button
+09/05/24 03:51:19 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/div[1]/div[1]/div[1]/div/span[1]/div[1]/div[6]/div/div/span/div/div/div/div[2]/div/div/div[1]/h2/a
+09/05/24 03:51:19 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/div[1]/div[1]/div[1]/div/span[1]/div[1]/div[6]/div/div/span/div/div/div/div[2]/div/div/div[1]/h2/a
+09/05/24 03:53:55 PM Thursday - BaseFn - INFO : Window maximized.
+09/05/24 03:53:57 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/header/div/div[3]/div[13]/div[2]/a
+09/05/24 03:53:58 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/header/div/div[3]/div[13]/div[2]/a
+09/05/24 03:53:58 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :ap_email
+09/05/24 03:53:58 PM Thursday - BaseFn - INFO : 7358696546Text has been successfully entered in the element with LocatorType: id and with the locatorvalue :ap_email
+09/05/24 03:54:01 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 03:54:01 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :ap_password
+09/05/24 03:54:01 PM Thursday - BaseFn - INFO : Developer@123Text has been successfully entered in the element with LocatorType: id and with the locatorvalue :ap_password
+09/05/24 03:54:03 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 03:54:43 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 03:54:43 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :twotabsearchtextbox
+09/05/24 03:54:43 PM Thursday - BaseFn - INFO : Cleared input field with LocatorType: id and LocatorValue: twotabsearchtextbox
+09/05/24 03:54:44 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :twotabsearchtextbox
+09/05/24 03:54:45 PM Thursday - BaseFn - INFO : Qifutan Car Phone Holder MountText has been successfully entered in the element with LocatorType: id and with the locatorvalue :twotabsearchtextbox
+09/05/24 03:54:46 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :nav-search-submit-button
+09/05/24 03:54:47 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: id and with the locatorvalue :nav-search-submit-button
+09/05/24 03:54:51 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/div[1]/div[1]/div[1]/div/span[1]/div[1]/div[6]/div/div/span/div/div/div/div[2]/div/div/div[1]/h2/a
+09/05/24 03:54:51 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/div[1]/div[1]/div[1]/div/span[1]/div[1]/div[6]/div/div/span/div/div/div/div[2]/div/div/div[1]/h2/a
+09/05/24 03:54:53 PM Thursday - BaseFn - INFO : Switched to window with handle: 5E5F8DCAA76553AA32EFCA7EA2630994
+09/05/24 03:54:55 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[2]/div/div[5]/div[3]/div[1]/div[4]/div/div[1]/div/div/div/form/div/div/div/div/div[4]/div/div[37]/div[1]/span/span/span/input
+09/05/24 03:54:56 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[2]/div/div[5]/div[3]/div[1]/div[4]/div/div[1]/div/div/div/form/div/div/div/div/div[4]/div/div[37]/div[1]/span/span/span/input
+09/05/24 03:56:05 PM Thursday - BaseFn - INFO : Window maximized.
+09/05/24 03:56:06 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/header/div/div[3]/div[13]/div[2]/a
+09/05/24 03:56:07 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/header/div/div[3]/div[13]/div[2]/a
+09/05/24 03:56:07 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :ap_email
+09/05/24 03:56:07 PM Thursday - BaseFn - INFO : 7358696546Text has been successfully entered in the element with LocatorType: id and with the locatorvalue :ap_email
+09/05/24 03:56:11 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 03:56:11 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :ap_password
+09/05/24 03:56:11 PM Thursday - BaseFn - INFO : Developer@123Text has been successfully entered in the element with LocatorType: id and with the locatorvalue :ap_password
+09/05/24 03:56:13 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 03:56:53 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 03:56:53 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :twotabsearchtextbox
+09/05/24 03:56:53 PM Thursday - BaseFn - INFO : Cleared input field with LocatorType: id and LocatorValue: twotabsearchtextbox
+09/05/24 03:56:54 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :twotabsearchtextbox
+09/05/24 03:56:54 PM Thursday - BaseFn - INFO : Qifutan Car Phone Holder MountText has been successfully entered in the element with LocatorType: id and with the locatorvalue :twotabsearchtextbox
+09/05/24 03:56:55 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :nav-search-submit-button
+09/05/24 03:56:58 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: id and with the locatorvalue :nav-search-submit-button
+09/05/24 03:57:02 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/div[1]/div[1]/div[1]/div/span[1]/div[1]/div[6]/div/div/span/div/div/div/div[2]/div/div/div[1]/h2/a
+09/05/24 03:57:02 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/div[1]/div[1]/div[1]/div/span[1]/div[1]/div[6]/div/div/span/div/div/div/div[2]/div/div/div[1]/h2/a
+09/05/24 03:57:04 PM Thursday - BaseFn - INFO : Switched to window with handle: 76F838D393AB58DB6722C49C6261FA98
+09/05/24 03:57:06 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[2]/div/div[5]/div[3]/div[1]/div[4]/div/div[1]/div/div/div/form/div/div/div/div/div[4]/div/div[37]/div[1]/span/span/span/input
+09/05/24 03:57:07 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[2]/div/div[5]/div[3]/div[1]/div[4]/div/div[1]/div/div/div/form/div/div/div/div/div[4]/div/div[37]/div[1]/span/span/span/input
+09/05/24 03:57:09 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/div[1]/div/div[1]/div[2]/div/form/span/span/span/input
+09/05/24 03:57:14 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/div[1]/div/div[1]/div[2]/div/form/span/span/span/input
+09/05/24 03:58:07 PM Thursday - BaseFn - ERROR : TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF727401572+60802]
+	(No symbol) [0x00007FF72737AC72]
+	(No symbol) [0x00007FF727237CE4]
+	(No symbol) [0x00007FF727286D4D]
+	(No symbol) [0x00007FF727286E1C]
+	(No symbol) [0x00007FF7272CCE37]
+	(No symbol) [0x00007FF7272AABBF]
+	(No symbol) [0x00007FF7272CA224]
+	(No symbol) [0x00007FF7272AA923]
+	(No symbol) [0x00007FF727278FEC]
+	(No symbol) [0x00007FF727279C21]
+	GetHandleVerifier [0x00007FF72770420D+3217949]
+	GetHandleVerifier [0x00007FF7277461A7+3488183]
+	GetHandleVerifier [0x00007FF72773F12F+3459391]
+	GetHandleVerifier [0x00007FF7274BB936+823622]
+	(No symbol) [0x00007FF72738600F]
+	(No symbol) [0x00007FF727380F34]
+	(No symbol) [0x00007FF7273810C2]
+	(No symbol) [0x00007FF727371914]
+	BaseThreadInitThunk [0x00007FFFC59D257D+29]
+	RtlUserThreadStart [0x00007FFFC742AA48+40]
+
+09/05/24 03:58:12 PM Thursday - BaseFn - INFO : Window maximized.
+09/05/24 03:58:14 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/header/div/div[3]/div[13]/div[2]/a
+09/05/24 03:58:14 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/header/div/div[3]/div[13]/div[2]/a
+09/05/24 03:58:14 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :ap_email
+09/05/24 03:58:14 PM Thursday - BaseFn - INFO : 7358696546Text has been successfully entered in the element with LocatorType: id and with the locatorvalue :ap_email
+09/05/24 03:58:25 PM Thursday - BaseFn - INFO : Window maximized.
+09/05/24 03:58:26 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/header/div/div[3]/div[13]/div[2]/a
+09/05/24 03:58:27 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/header/div/div[3]/div[13]/div[2]/a
+09/05/24 03:58:27 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :ap_email
+09/05/24 03:58:27 PM Thursday - BaseFn - INFO : 7358696546Text has been successfully entered in the element with LocatorType: id and with the locatorvalue :ap_email
+09/05/24 03:58:31 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 03:58:31 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :ap_password
+09/05/24 03:58:31 PM Thursday - BaseFn - INFO : Developer@123Text has been successfully entered in the element with LocatorType: id and with the locatorvalue :ap_password
+09/05/24 03:58:33 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 03:59:03 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 03:59:03 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :twotabsearchtextbox
+09/05/24 03:59:03 PM Thursday - BaseFn - INFO : Cleared input field with LocatorType: id and LocatorValue: twotabsearchtextbox
+09/05/24 03:59:04 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :twotabsearchtextbox
+09/05/24 03:59:04 PM Thursday - BaseFn - INFO : Qifutan Car Phone Holder MountText has been successfully entered in the element with LocatorType: id and with the locatorvalue :twotabsearchtextbox
+09/05/24 03:59:05 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :nav-search-submit-button
+09/05/24 03:59:09 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: id and with the locatorvalue :nav-search-submit-button
+09/05/24 03:59:13 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/div[1]/div[1]/div[1]/div/span[1]/div[1]/div[6]/div/div/span/div/div/div/div[2]/div/div/div[1]/h2/a
+09/05/24 03:59:13 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/div[1]/div[1]/div[1]/div/span[1]/div[1]/div[6]/div/div/span/div/div/div/div[2]/div/div/div[1]/h2/a
+09/05/24 03:59:15 PM Thursday - BaseFn - INFO : Switched to window with handle: C99FAE152204B1A273A154795E84BD9F
+09/05/24 03:59:17 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[2]/div/div[5]/div[3]/div[1]/div[4]/div/div[1]/div/div/div/form/div/div/div/div/div[4]/div/div[37]/div[1]/span/span/span/input
+09/05/24 03:59:18 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[2]/div/div[5]/div[3]/div[1]/div[4]/div/div[1]/div/div/div/form/div/div/div/div/div[4]/div/div[37]/div[1]/span/span/span/input
+09/05/24 03:59:20 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/div[1]/div/div[1]/div[2]/div/form/span/span/span/input
+09/05/24 03:59:24 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/div[1]/div/div[1]/div[2]/div/form/span/span/span/input
+09/05/24 03:59:43 PM Thursday - BaseFn - ERROR : TimeoutException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=124.0.6367.119)
+Stacktrace:
+	GetHandleVerifier [0x00007FF727401572+60802]
+	(No symbol) [0x00007FF72737AC72]
+	(No symbol) [0x00007FF727237CE4]
+	(No symbol) [0x00007FF72720DFDF]
+	(No symbol) [0x00007FF7272B1E57]
+	(No symbol) [0x00007FF7272C98D1]
+	(No symbol) [0x00007FF7272AA923]
+	(No symbol) [0x00007FF727278FEC]
+	(No symbol) [0x00007FF727279C21]
+	GetHandleVerifier [0x00007FF72770420D+3217949]
+	GetHandleVerifier [0x00007FF7277461A7+3488183]
+	GetHandleVerifier [0x00007FF72773F12F+3459391]
+	GetHandleVerifier [0x00007FF7274BB936+823622]
+	(No symbol) [0x00007FF72738600F]
+	(No symbol) [0x00007FF727380F34]
+	(No symbol) [0x00007FF7273810C2]
+	(No symbol) [0x00007FF727371914]
+	BaseThreadInitThunk [0x00007FFFC59D257D+29]
+	RtlUserThreadStart [0x00007FFFC742AA48+40]
+
+09/05/24 04:00:15 PM Thursday - BaseFn - INFO : Window maximized.
+09/05/24 04:00:17 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/header/div/div[3]/div[13]/div[2]/a
+09/05/24 04:00:18 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/header/div/div[3]/div[13]/div[2]/a
+09/05/24 04:00:18 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :ap_email
+09/05/24 04:00:18 PM Thursday - BaseFn - INFO : 7358696546Text has been successfully entered in the element with LocatorType: id and with the locatorvalue :ap_email
+09/05/24 04:00:21 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 04:00:21 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :ap_password
+09/05/24 04:00:21 PM Thursday - BaseFn - INFO : Developer@123Text has been successfully entered in the element with LocatorType: id and with the locatorvalue :ap_password
+09/05/24 04:00:23 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 04:00:33 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 04:00:33 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :twotabsearchtextbox
+09/05/24 04:00:33 PM Thursday - BaseFn - INFO : Cleared input field with LocatorType: id and LocatorValue: twotabsearchtextbox
+09/05/24 04:00:34 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :twotabsearchtextbox
+09/05/24 04:00:34 PM Thursday - BaseFn - INFO : Qifutan Car Phone Holder MountText has been successfully entered in the element with LocatorType: id and with the locatorvalue :twotabsearchtextbox
+09/05/24 04:00:35 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :nav-search-submit-button
+09/05/24 04:00:38 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: id and with the locatorvalue :nav-search-submit-button
+09/05/24 04:00:42 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/div[1]/div[1]/div[1]/div/span[1]/div[1]/div[6]/div/div/span/div/div/div/div[2]/div/div/div[1]/h2/a
+09/05/24 04:00:42 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/div[1]/div[1]/div[1]/div/span[1]/div[1]/div[6]/div/div/span/div/div/div/div[2]/div/div/div[1]/h2/a
+09/05/24 04:00:44 PM Thursday - BaseFn - INFO : Switched to window with handle: D3565F7DB51F9A1B50ACB3BAF8A07A0B
+09/05/24 04:00:46 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[2]/div/div[5]/div[3]/div[1]/div[4]/div/div[1]/div/div/div/form/div/div/div/div/div[4]/div/div[37]/div[1]/span/span/span/input
+09/05/24 04:00:47 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[2]/div/div[5]/div[3]/div[1]/div[4]/div/div[1]/div/div/div/form/div/div/div/div/div[4]/div/div[37]/div[1]/span/span/span/input
+09/05/24 04:03:08 PM Thursday - BaseFn - INFO : Window maximized.
+09/05/24 04:03:10 PM Thursday - BaseFn - ERROR : TimeoutException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=124.0.6367.119)
+Stacktrace:
+	GetHandleVerifier [0x00007FF727401572+60802]
+	(No symbol) [0x00007FF72737AC72]
+	(No symbol) [0x00007FF727237CE4]
+	(No symbol) [0x00007FF72720DFDF]
+	(No symbol) [0x00007FF7272B1E57]
+	(No symbol) [0x00007FF7272C98D1]
+	(No symbol) [0x00007FF7272AA923]
+	(No symbol) [0x00007FF727278FEC]
+	(No symbol) [0x00007FF727279C21]
+	GetHandleVerifier [0x00007FF72770420D+3217949]
+	GetHandleVerifier [0x00007FF7277461A7+3488183]
+	GetHandleVerifier [0x00007FF72773F12F+3459391]
+	GetHandleVerifier [0x00007FF7274BB936+823622]
+	(No symbol) [0x00007FF72738600F]
+	(No symbol) [0x00007FF727380F34]
+	(No symbol) [0x00007FF7273810C2]
+	(No symbol) [0x00007FF727371914]
+	BaseThreadInitThunk [0x00007FFFC59D257D+29]
+	RtlUserThreadStart [0x00007FFFC742AA48+40]
+
+09/05/24 04:03:25 PM Thursday - BaseFn - INFO : Window maximized.
+09/05/24 04:03:26 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/header/div/div[3]/div[13]/div[2]/a
+09/05/24 04:03:27 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/header/div/div[3]/div[13]/div[2]/a
+09/05/24 04:03:27 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :ap_email
+09/05/24 04:03:27 PM Thursday - BaseFn - INFO : 7358696546Text has been successfully entered in the element with LocatorType: id and with the locatorvalue :ap_email
+09/05/24 04:03:31 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 04:03:31 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :ap_password
+09/05/24 04:03:31 PM Thursday - BaseFn - INFO : Developer@123Text has been successfully entered in the element with LocatorType: id and with the locatorvalue :ap_password
+09/05/24 04:03:33 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 04:03:38 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 04:03:38 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :twotabsearchtextbox
+09/05/24 04:03:38 PM Thursday - BaseFn - INFO : Cleared input field with LocatorType: id and LocatorValue: twotabsearchtextbox
+09/05/24 04:03:39 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :twotabsearchtextbox
+09/05/24 04:03:39 PM Thursday - BaseFn - INFO : Qifutan Car Phone Holder MountText has been successfully entered in the element with LocatorType: id and with the locatorvalue :twotabsearchtextbox
+09/05/24 04:03:40 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :nav-search-submit-button
+09/05/24 04:03:42 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: id and with the locatorvalue :nav-search-submit-button
+09/05/24 04:03:46 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/div[1]/div[1]/div[1]/div/span[1]/div[1]/div[6]/div/div/span/div/div/div/div[2]/div/div/div[1]/h2/a
+09/05/24 04:03:46 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/div[1]/div[1]/div[1]/div/span[1]/div[1]/div[6]/div/div/span/div/div/div/div[2]/div/div/div[1]/h2/a
+09/05/24 04:03:48 PM Thursday - BaseFn - INFO : Switched to window with handle: D197E8CC31FA998B586C9FA63E708FF5
+09/05/24 04:03:51 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[2]/div/div[5]/div[3]/div[1]/div[4]/div/div[1]/div/div/div/form/div/div/div/div/div[4]/div/div[37]/div[1]/span/span/span/input
+09/05/24 04:03:52 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[2]/div/div[5]/div[3]/div[1]/div[4]/div/div[1]/div/div/div/form/div/div/div/div/div[4]/div/div[37]/div[1]/span/span/span/input
+09/05/24 04:03:54 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/div[1]/div/div[1]/div[2]/div/form/span/span/span/input
+09/05/24 04:03:59 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/div[1]/div/div[1]/div[2]/div/form/span/span/span/input
+09/05/24 04:04:55 PM Thursday - BaseFn - INFO : Window maximized.
+09/05/24 04:04:59 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/header/div/div[3]/div[13]/div[2]/a
+09/05/24 04:05:00 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/header/div/div[3]/div[13]/div[2]/a
+09/05/24 04:05:00 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :ap_email
+09/05/24 04:05:00 PM Thursday - BaseFn - INFO : 7358696546Text has been successfully entered in the element with LocatorType: id and with the locatorvalue :ap_email
+09/05/24 04:05:03 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 04:05:03 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :ap_password
+09/05/24 04:05:03 PM Thursday - BaseFn - INFO : Developer@123Text has been successfully entered in the element with LocatorType: id and with the locatorvalue :ap_password
+09/05/24 04:05:05 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 04:05:10 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 04:05:10 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :twotabsearchtextbox
+09/05/24 04:05:10 PM Thursday - BaseFn - INFO : Cleared input field with LocatorType: id and LocatorValue: twotabsearchtextbox
+09/05/24 04:05:11 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :twotabsearchtextbox
+09/05/24 04:05:12 PM Thursday - BaseFn - INFO : Qifutan Car Phone Holder MountText has been successfully entered in the element with LocatorType: id and with the locatorvalue :twotabsearchtextbox
+09/05/24 04:05:13 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :nav-search-submit-button
+09/05/24 04:05:14 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: id and with the locatorvalue :nav-search-submit-button
+09/05/24 04:05:19 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/div[1]/div[1]/div[1]/div/span[1]/div[1]/div[6]/div/div/span/div/div/div/div[2]/div/div/div[1]/h2/a
+09/05/24 04:05:19 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/div[1]/div[1]/div[1]/div/span[1]/div[1]/div[6]/div/div/span/div/div/div/div[2]/div/div/div[1]/h2/a
+09/05/24 04:05:21 PM Thursday - BaseFn - INFO : Switched to window with handle: 036F872D037562F91136F4C4DE4B66BA
+09/05/24 04:05:23 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[2]/div/div[5]/div[3]/div[1]/div[4]/div/div[1]/div/div/div/form/div/div/div/div/div[4]/div/div[37]/div[1]/span/span/span/input
+09/05/24 04:05:25 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[2]/div/div[5]/div[3]/div[1]/div[4]/div/div[1]/div/div/div/form/div/div/div/div/div[4]/div/div[37]/div[1]/span/span/span/input
+09/05/24 04:05:27 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/div[1]/div/div[1]/div[2]/div/form/span/span/span/input
+09/05/24 04:05:31 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/div[1]/div/div[1]/div[2]/div/form/span/span/span/input
+09/05/24 04:06:24 PM Thursday - BaseFn - ERROR : TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF727401572+60802]
+	(No symbol) [0x00007FF72737AC72]
+	(No symbol) [0x00007FF727237CE4]
+	(No symbol) [0x00007FF727286D4D]
+	(No symbol) [0x00007FF727286E1C]
+	(No symbol) [0x00007FF7272CCE37]
+	(No symbol) [0x00007FF7272AABBF]
+	(No symbol) [0x00007FF7272CA224]
+	(No symbol) [0x00007FF7272AA923]
+	(No symbol) [0x00007FF727278FEC]
+	(No symbol) [0x00007FF727279C21]
+	GetHandleVerifier [0x00007FF72770420D+3217949]
+	GetHandleVerifier [0x00007FF7277461A7+3488183]
+	GetHandleVerifier [0x00007FF72773F12F+3459391]
+	GetHandleVerifier [0x00007FF7274BB936+823622]
+	(No symbol) [0x00007FF72738600F]
+	(No symbol) [0x00007FF727380F34]
+	(No symbol) [0x00007FF7273810C2]
+	(No symbol) [0x00007FF727371914]
+	BaseThreadInitThunk [0x00007FFFC59D257D+29]
+	RtlUserThreadStart [0x00007FFFC742AA48+40]
+
+09/05/24 04:09:10 PM Thursday - BaseFn - INFO : Window maximized.
+09/05/24 04:09:11 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/header/div/div[3]/div[13]/div[2]/a
+09/05/24 04:09:12 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/header/div/div[3]/div[13]/div[2]/a
+09/05/24 04:09:12 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :ap_email
+09/05/24 04:09:12 PM Thursday - BaseFn - INFO : 7358696546Text has been successfully entered in the element with LocatorType: id and with the locatorvalue :ap_email
+09/05/24 04:09:16 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 04:09:16 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :ap_password
+09/05/24 04:09:16 PM Thursday - BaseFn - INFO : Developer@123Text has been successfully entered in the element with LocatorType: id and with the locatorvalue :ap_password
+09/05/24 04:09:18 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 04:09:23 PM Thursday - BaseFn - INFO : Pressed the Enter key.
+09/05/24 04:09:23 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :twotabsearchtextbox
+09/05/24 04:09:23 PM Thursday - BaseFn - INFO : Cleared input field with LocatorType: id and LocatorValue: twotabsearchtextbox
+09/05/24 04:09:24 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :twotabsearchtextbox
+09/05/24 04:09:24 PM Thursday - BaseFn - INFO : Qifutan Car Phone Holder MountText has been successfully entered in the element with LocatorType: id and with the locatorvalue :twotabsearchtextbox
+09/05/24 04:09:25 PM Thursday - BaseFn - INFO : Element found with LocatorType: id with the locatorvalue :nav-search-submit-button
+09/05/24 04:09:28 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: id and with the locatorvalue :nav-search-submit-button
+09/05/24 04:09:32 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[1]/div[1]/div[1]/div[1]/div/span[1]/div[1]/div[6]/div/div/span/div/div/div/div[2]/div/div/div[1]/h2/a
+09/05/24 04:09:32 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[1]/div[1]/div[1]/div[1]/div/span[1]/div[1]/div[6]/div/div/span/div/div/div/div[2]/div/div/div[1]/h2/a
+09/05/24 04:09:34 PM Thursday - BaseFn - INFO : Switched to window with handle: 60F1BD2FEA9AC1499F559BD1EDC7D754
+09/05/24 04:09:36 PM Thursday - BaseFn - INFO : Element found with LocatorType: xpath with the locatorvalue :/html/body/div[2]/div/div[5]/div[3]/div[1]/div[4]/div/div[1]/div/div/div/form/div/div/div/div/div[4]/div/div[37]/div[1]/span/span/span/input
+09/05/24 04:09:37 PM Thursday - BaseFn - INFO : Element has clicked  with LocatorType: xpath and with the locatorvalue :/html/body/div[2]/div/div[5]/div[3]/div[1]/div[4]/div/div[1]/div/div/div/form/div/div/div/div/div[4]/div/div[37]/div[1]/span/span/span/input
